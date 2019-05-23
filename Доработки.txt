@@ -1,0 +1,4 @@
+Изменил разделы страницы:
+"Pluses"
+"Reviews"
+"Contacts"
